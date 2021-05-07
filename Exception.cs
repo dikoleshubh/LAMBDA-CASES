@@ -14,12 +14,5 @@ namespace ReX
         {
         }
 
-        //public InvalidException(string message, Exception innerException) : base(message, innerException)
-        //{
-        //}
-
-        //protected InvalidException(SerializationInfo info, StreamingContext context) : base(info, context)
-        //{
-        //}
     }
 }
