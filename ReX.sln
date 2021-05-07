@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReX", "ReX.csproj", "{5B55AA21-9DAD-411A-949F-376ED3242529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject4", "..\UnitTestProject4\UnitTestProject4.csproj", "{DA594865-01AD-428E-8A31-C9FB569E4B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B55AA21-9DAD-411A-949F-376ED3242529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B55AA21-9DAD-411A-949F-376ED3242529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B55AA21-9DAD-411A-949F-376ED3242529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B55AA21-9DAD-411A-949F-376ED3242529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA594865-01AD-428E-8A31-C9FB569E4B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA594865-01AD-428E-8A31-C9FB569E4B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA594865-01AD-428E-8A31-C9FB569E4B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA594865-01AD-428E-8A31-C9FB569E4B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A532D6-D6BE-41C9-80C0-C790D68E16F3}
+	EndGlobalSection
+EndGlobal

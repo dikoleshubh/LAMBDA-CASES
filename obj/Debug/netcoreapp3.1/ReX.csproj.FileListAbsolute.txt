@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ReX\bin\Debug\netcoreapp3.1\ReX.exe
+C:\Users\Admin\source\repos\ReX\bin\Debug\netcoreapp3.1\ReX.deps.json
+C:\Users\Admin\source\repos\ReX\bin\Debug\netcoreapp3.1\ReX.runtimeconfig.json
+C:\Users\Admin\source\repos\ReX\bin\Debug\netcoreapp3.1\ReX.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ReX\bin\Debug\netcoreapp3.1\ReX.dll
+C:\Users\Admin\source\repos\ReX\bin\Debug\netcoreapp3.1\ReX.pdb
+C:\Users\Admin\source\repos\ReX\obj\Debug\netcoreapp3.1\ReX.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ReX\obj\Debug\netcoreapp3.1\ReX.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ReX\obj\Debug\netcoreapp3.1\ReX.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ReX\obj\Debug\netcoreapp3.1\ReX.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ReX\obj\Debug\netcoreapp3.1\ReX.dll
+C:\Users\Admin\source\repos\ReX\obj\Debug\netcoreapp3.1\ReX.pdb
+C:\Users\Admin\source\repos\ReX\obj\Debug\netcoreapp3.1\ReX.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ReX\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\source\repos\ReX\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\source\repos\ReX\obj\Debug\netcoreapp3.1\ReX.csproj.CopyComplete
